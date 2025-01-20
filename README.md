@@ -19,18 +19,17 @@ Hi, I'm Senith Samaranayake, an entrepreneur and tech enthusiast passionate abou
 
 ## 🌐 Connect with Me  
 
-
 <p align="center">
-  <a href="https://linktr.ee/senith_samaranayake" class="social-badge">
+  <a href="https://linktr.ee/senith_samaranayake">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white&labelColor=101010&color=39E09B" alt="Linktree" />
   </a>
-  <a href="https://www.linkedin.com/in/senith-samaranayake/" class="social-badge">
+  <a href="https://www.linkedin.com/in/senith-samaranayake/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010&color=0077B5" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/senith.samaranayake.2025/" class="social-badge">
+  <a href="https://www.facebook.com/senith.samaranayake.2025/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010&color=1877F2" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/senith.lokitha/" class="social-badge">
+  <a href="https://www.instagram.com/senith.lokitha/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010&color=E4405F" alt="Instagram" />
   </a>
 </p>
