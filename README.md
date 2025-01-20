@@ -33,18 +33,6 @@ Hi, I'm Senith Samaranayake, an entrepreneur and tech enthusiast passionate abou
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010&color=E4405F" alt="Instagram" />
   </a>
 </p>
-
----
-
-## ⚙️ Add-ons  
-
-### Display Features  
-- ![Visitor Count Badge](https://visitor-badge.glitch.me/badge?page_id=SenLODiGi)  
-- [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SenLODiGi&theme=radical)](https://github.com/SenLODiGi)  
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SenLODiGi&show_icons=true&theme=radical)  
-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SenLODiGi&layout=compact&theme=radical)](https://github.com/SenLODiGi)  
-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SenLODiGi&theme=radical)  
-
 ---
 
 ## 🤝 Support  
