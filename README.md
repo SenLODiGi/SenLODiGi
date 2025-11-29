@@ -25,7 +25,7 @@ Founder of **Startup Duo**, **CostMap**, **Grafitlabs**.
 
 ---
 
-# 🔷 **Skillset (Animated Icons)**
+# 🔷 **Skillset**
 
 <p align="center">
 
@@ -70,9 +70,8 @@ Founder of **Startup Duo**, **CostMap**, **Grafitlabs**.
 - 🔹 **CostMap** – Travel AI for cheapest routes  
 - 🔹 **Grafitlabs** – Marketing + tech studio  
 
-## 📊 GitHub Stats (Blue Theme)
+## 📊 GitHub Stats
 
-![Senith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=senith&theme=blue&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=senith&theme=blue&hide_border=true)
 
 ## 👀 Profile Visitors
