@@ -4,7 +4,7 @@
 
 <!-- Typing Animation Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=38&color=0084FF&center=true&vCenter=true&width=550&lines=Senith+Samaranayake;Marketing+Scientist;Data+Analyst+%7C+Python+%26+R+Developer;Entrepreneur+%7C+Youth+Empowerment+Speaker" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=38&color=0084FF&center=true&vCenter=true&width=550&lines=Senith+Samaranayake;Marketing+Scientist;Data+Analyst+%7C+Python+%26+R+Developer;Entrepreneur;Youth+Empowerment+Speaker" />
 </h1>
 
 <p align="center">
@@ -37,10 +37,10 @@ Founder of **Startup Duo**, **CostMap**, **Grafitlabs**.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="60">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60">
 
-<!-- ANIMATED -->
+<!-- ANIMATED
 <img src="https://media.giphy.com/media/4ZgLPakqI3y3i/giphy.gif" width="70">
 <img src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGnFC/giphy.gif" width="70">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="70">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="70"> -->
 
 </p>
 
@@ -92,8 +92,5 @@ If you enjoy my work:
 - ✔ Collaborate with me
 
 **Let’s build something meaningful together!**
-
-![Let’s build something meaningful together!](https://media.giphy.com/media/M9gbBd9oZWPSvXOD72/giphy.gif)
-
 ---
 *Built with passion for marketing, data, and innovation.*
