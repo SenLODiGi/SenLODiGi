@@ -1,41 +1,100 @@
-# 🌟 Innovative Marketer | Developer | Entrepreneur  
+<!-- ===================================================== -->
+<!-- 🌟 SENITH SAMARANAYAKE - BLUE THEME GITHUB README     -->
+<!-- ===================================================== -->
 
-## 🚀 About Me  
-Hi, I'm Senith Samaranayake, an entrepreneur and tech enthusiast passionate about marketing, education, and building innovative solutions. Founder of **Startup Duo**, **CostMap**, and **Harder**, I'm dedicated to empowering youth and driving impactful change through technology and innovation.
-
----
-
-## 💼 Work  
-- **Founder StartupDuo:** Empowering Sri Lankan youth through education and leadership.  
-- **Founder & Creator CostMap:** An AI to improve travel experiences for domestic and international travelers.  
-- **Founder Harder:** Upcoming online learning platform launching in 2025.  
-
----
-
-## 💻 Skills  
-- **Programming Languages:** C, C++, Python, Java, HTML, CSS  
-
----
-
-## 🌐 Connect with Me  
+<!-- Typing Animation Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=0084FF&center=true&vCenter=true&width=550&lines=Senith+Samaranayake;Marketing+Scientist;Data+Analyst+%7C+Python+%26+R+Developer;Entrepreneur+%7C+Youth+Empowerment" />
+</h1>
 
 <p align="center">
-  <a href="https://linktr.ee/senith_samaranayake">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white&labelColor=101010&color=39E09B" alt="Linktree" />
-  </a>
-  <a href="https://www.linkedin.com/in/senith-samaranayake/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010&color=0077B5" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/senith.samaranayake.2025/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010&color=1877F2" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/senith.lokitha/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010&color=E4405F" alt="Instagram" />
-  </a>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="350">
 </p>
 
 ---
 
-## 🤝 Support  
-- If you enjoy my work, consider giving a ⭐ or contributing to my repositories!  
-- Let's connect and collaborate to make impactful ideas a reality!  
+# 🔹 **About Me**
+I’m **Senith**, a marketer who thinks like a data scientist and codes like a developer.  
+My passion lives in:
+
+- **Marketing Strategy + Science**  
+- **Data Analytics (Python & R)**  
+- **Tech + Entrepreneurship**
+
+Founder of **Startup Duo**, **CostMap**, **Grafitlabs**.
+
+---
+
+# 🔷 **Skillset (Animated Icons)**
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60">
+
+<!-- ANIMATED -->
+<img src="https://media.giphy.com/media/4ZgLPakqI3y3i/giphy.gif" width="70">
+<img src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGnFC/giphy.gif" width="70">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="70">
+
+</p>
+
+---
+
+# 🔷 **Tech + Tools**
+🔹 Python • Pandas • Matplotlib  
+🔹 R • ggplot2  
+🔹 NLP • TextBlob  
+🔹 SQL • Power BI  
+🔹 Marketing Analytics  
+
+---
+
+## 🚀 Mini Projects (2025-2026)
+
+| Project                            | Description                                      | Status          |
+|------------------------------------|--------------------------------------------------|-----------------|
+| Social Media Sentiment Reader      | NLP tool using TextBlob                          | 🔄 In Progress  |
+| Marketing Dashboard                | Python + Streamlit dashboard                     | 🟢 Planned      |
+| R Customer Segmentation Model      | Marketing clusters                               | 🟢 Planned      |
+| CostMap AI Model v1                | Predicting cheapest routes                       | 🔧 Building     |
+| Marketing Research Series          | New theories + frameworks                       | 🟦 Ongoing      |
+
+## 🧩 My Work & Brands
+- 🔹 **Startup Duo** – Youth empowerment & digital education  
+- 🔹 **CostMap** – Travel AI for cheapest routes  
+- 🔹 **Grafitlabs** – Marketing + tech studio  
+
+## 📊 GitHub Stats (Blue Theme)
+
+![Senith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=senith&theme=blue&show_icons=true&hide_border=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=senith&theme=blue&hide_border=true)
+
+## 👀 Profile Visitors
+
+![Profile Views](https://komarev.com/ghpvc/?username=senith&label=Profile%20views&color=0084ff&style=for-the-badge)
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+## ⭐ Support
+
+If you enjoy my work:
+- ✔ Star ⭐ my repositories
+- ✔ Follow me
+- ✔ Collaborate with me
+
+**Let’s build something meaningful together!**
+
+![Let’s build something meaningful together!](https://media.giphy.com/media/M9gbBd9oZWPSvXOD72/giphy.gif)
+
+---
+*Built with passion for marketing, data, and innovation.*
