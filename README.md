@@ -4,7 +4,7 @@
 
 <!-- Typing Animation Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=0084FF&center=true&vCenter=true&width=550&lines=Senith+Samaranayake;Marketing+Scientist;Data+Analyst+%7C+Python+%26+R+Developer;Entrepreneur+%7C+Youth+Empowerment" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=0084FF&center=true&vCenter=true&width=550&lines=Senith+Samaranayake;Marketing+Scientist;Data+Analyst+%7C+Python+%26+R+Developer;Entrepreneur+%7C+Youth+Empowerment+Speaker" />
 </h1>
 
 <p align="center">
